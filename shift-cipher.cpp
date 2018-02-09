@@ -19,7 +19,6 @@ char character(const unsigned int c) {
 string decrypt(const string ciphertext, const unsigned int shift) {
 	stringstream plaintext;
 	unsigned int ord;
-	char ch;
     for (unsigned int i = 0; i < ciphertext.length(); i++) {
         ord = (ordinal(ciphertext[i]) + shift) % 26;
         plaintext << character(ord);
