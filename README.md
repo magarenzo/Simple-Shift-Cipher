@@ -1,5 +1,5 @@
-# simple-ciphers
-Brute force through some simple ciphers to determine the plaintext
+# simple-shift-cipher
+Brute force through a simple shift cipher to determine the plaintext
 
 ---
 
