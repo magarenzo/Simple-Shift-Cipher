@@ -12,6 +12,6 @@ zdwfkrxwirueuxwxv<br>aexglsyxjsvfvyxyw<br>bfyhmtzyktwgwzyzx<br>cgzinuazluxhxazay
 
 ## Owner
 
-* Michael A. Agarenzo
+Michael A. Agarenzo
 
-* This was created as an assignment in CSC381 (Applied Cryptography)
+This was created as an assignment in CSC381 (Applied Cryptography)
