@@ -14,4 +14,4 @@ zdwfkrxwirueuxwxv<br>aexglsyxjsvfvyxyw<br>bfyhmtzyktwgwzyzx<br>cgzinuazluxhxazay
 
 Michael A. Agarenzo
 
-This was created as an assignment in CSC381 (Applied Cryptography)
+This was originally created as an assignment in CSC381 (Applied Cryptography)
